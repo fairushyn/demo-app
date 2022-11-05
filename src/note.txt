@@ -1,0 +1,21 @@
+Langkah-Langkah:
+a. Membuat File pendukung
+1. Membuat file untuk component header, konten, dan footer
+2. Membuat code header
+3. Membuat code Footer
+4. Membuat code Main
+
+b. 
+5. Membuat komponen pada Lesson
+6. Mentransfer komponen lesson ke Main dengan props
+7. Membuat data pada  Main untuk mapping <p> dan <img>
+
+c. Membuat Modal
+8. Tambahkan JSX untuk Modal
+9. Sembunyikan modal di state awal
+10. Tampilkan dan sembunyikan modal
+
+d. Membuat Formulir
+11. Membuat tampilan Formulir
+12. Mempersiapkan formulir pengiriman pesan
+13. Beralih antara formulir dan pesan
